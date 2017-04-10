@@ -1,0 +1,6 @@
+*.gz
+*.pyc
+*.p
+cifar-10-python*
+cifar-10-batches-py/*
+__pycache__
