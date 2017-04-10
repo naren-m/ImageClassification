@@ -4,3 +4,7 @@
 cifar-10-python*
 cifar-10-batches-py/*
 __pycache__
+image_classification.*
+checkpoint
+.ipynb_checkpoints/*
+.ipynb_checkpoints*
